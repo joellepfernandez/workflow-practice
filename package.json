@@ -8,15 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joellepfernandez/workflow-practice.git"
+    "url": "git+https://github.com/seanallenlewis/workflow-practice.git"
+
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joellepfernandez/workflow-practice/issues"
+
+    "url": "https://github.com/alonmatthew/workflow-practice/issues"
   },
-  "homepage": "https://github.com/joellepfernandez/workflow-practice#readme",
+  "homepage": "https://github.com/alonmatthew/workflow-practice#readme",
   "dependencies": {
+    "express": "^4.14.0",
+
     "mongoose": "^4.7.6"
   }
 }
