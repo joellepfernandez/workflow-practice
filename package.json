@@ -1,0 +1,26 @@
+{
+  "name": "workflow-practice",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanallenlewis/workflow-practice.git"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+
+    "url": "https://github.com/alonmatthew/workflow-practice/issues"
+  },
+  "homepage": "https://github.com/alonmatthew/workflow-practice#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+
+    "mongoose": "^4.7.6"
+  }
+}
